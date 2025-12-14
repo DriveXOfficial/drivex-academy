@@ -1,0 +1,172 @@
+[
+  {
+    "nom": "Hadrien Chartier",
+    "points": 91,
+    "team": "LMP2",
+    "role": "Président DriveX Academy - Président LMP2 - Président LMP3 - Président LMGT3",
+    "description": "Pilote expérimenté et leader de la DriveX Academy.",
+    "photo": "https://www.groupe-atf.com/sites/default/files/styles/photo_personnel_630px_/public/default_images/fond_pdp_0.png?itok=sNsxciTS",
+    "licence": "AAA-1234-BBB",
+    "isPresident": true
+  },
+  {
+    "nom": "Félix Arbez",
+    "points": 12,
+    "team": "Hypercar",
+    "role": "Président Hypercar",
+    "description": "Spécialiste Hypercar et leader de la catégorie.",
+    "photo": "https://www.groupe-atf.com/sites/default/files/styles/photo_personnel_630px_/public/default_images/fond_pdp_0.png?itok=sNsxciTS",
+    "licence": "AAA-1234-BBB",
+    "isPresident": true
+  },
+  {
+    "nom": "Nathan Bagarry",
+    "points": 45,
+    "team": "Hypercar",
+    "role": "",
+    "description": "Pilote talentueux de la catégorie Hypercar.",
+    "photo": "https://www.groupe-atf.com/sites/default/files/styles/photo_personnel_630px_/public/default_images/fond_pdp_0.png?itok=sNsxciTS",
+    "licence": "AAA-1234-BBB",
+    "isPresident": false
+  },
+  {
+    "nom": "Damien Motte",
+    "points": 37,
+    "team": "Hypercar",
+    "role": "",
+    "description": "Pilote prometteur de la catégorie Hypercar.",
+    "photo": "https://www.groupe-atf.com/sites/default/files/styles/photo_personnel_630px_/public/default_images/fond_pdp_0.png?itok=sNsxciTS",
+    "licence": "AAA-1234-BBB",
+    "isPresident": false
+  },
+  {
+    "nom": "Sacha Frisque",
+    "points": 8,
+    "team": "LMP2",
+    "role": "",
+    "description": "Pilote LMP2 déterminé et rigoureux.",
+    "photo": "https://www.groupe-atf.com/sites/default/files/styles/photo_personnel_630px_/public/default_images/fond_pdp_0.png?itok=sNsxciTS",
+    "licence": "AAA-1234-BBB",
+    "isPresident": false
+  },
+  {
+    "nom": "Andre Frederic",
+    "points": 23,
+    "team": "LMP2",
+    "role": "",
+    "description": "Pilote expérimenté en LMP2.",
+    "photo": "https://www.groupe-atf.com/sites/default/files/styles/photo_personnel_630px_/public/default_images/fond_pdp_0.png?itok=sNsxciTS",
+    "licence": "AAA-1234-BBB",
+    "isPresident": false
+  },
+  {
+    "nom": "Nicolas Coulon",
+    "points": 0,
+    "team": "LMGT3",
+    "role": "",
+    "description": "Spécialiste GT et pilote LMGT3.",
+    "photo": "https://www.groupe-atf.com/sites/default/files/styles/photo_personnel_630px_/public/default_images/fond_pdp_0.png?itok=sNsxciTS",
+    "licence": "AAA-1234-BBB",
+    "isPresident": false
+  },
+  {
+    "nom": "Nicolas Bertrand",
+    "points": 0,
+    "team": "LMGT3",
+    "role": "",
+    "description": "Pilote LMGT3 prometteur.",
+    "photo": "https://www.groupe-atf.com/sites/default/files/styles/photo_personnel_630px_/public/default_images/fond_pdp_0.png?itok=sNsxciTS",
+    "licence": "AAA-1234-BBB",
+    "isPresident": false
+  },
+  {
+    "nom": "Stefen Guinard",
+    "points": 10,
+    "team": "LMP2",
+    "role": "",
+    "description": "New",
+    "photo": "https://www.groupe-atf.com/sites/default/files/styles/photo_personnel_630px_/public/default_images/fond_pdp_0.png?itok=sNsxciTS",
+    "licence": "AAA-1234-BBB",
+    "isPresident": false
+  },
+  {
+    "nom": "Hugo Wax",
+    "points": 10,
+    "team": "Hypercar",
+    "role": "",
+    "description": "New",
+    "photo": "https://www.groupe-atf.com/sites/default/files/styles/photo_personnel_630px_/public/default_images/fond_pdp_0.png?itok=sNsxciTS",
+    "licence": "AAA-1234-BBB",
+    "isPresident": false
+  },
+  {
+    "nom": "Said Benabadji",
+    "points": 25,
+    "team": "Hypercar",
+    "role": "",
+    "description": "New",
+    "photo": "https://www.groupe-atf.com/sites/default/files/styles/photo_personnel_630px_/public/default_images/fond_pdp_0.png?itok=sNsxciTS",
+    "licence": "AAA-1234-BBB",
+    "isPresident": false
+  },
+  {
+    "nom": "Anthony Gardelle",
+    "points": 25,
+    "team": "Hypercar",
+    "role": "",
+    "description": "New",
+    "photo": "https://www.groupe-atf.com/sites/default/files/styles/photo_personnel_630px_/public/default_images/fond_pdp_0.png?itok=sNsxciTS",
+    "licence": "AAA-1234-BBB",
+    "isPresident": false
+  },
+  {
+    "nom": "Josselin Dubosq",
+    "points": 25,
+    "team": "Hypercar",
+    "role": "",
+    "description": "New",
+    "photo": "https://www.groupe-atf.com/sites/default/files/styles/photo_personnel_630px_/public/default_images/fond_pdp_0.png?itok=sNsxciTS",
+    "licence": "AAA-1234-BBB",
+    "isPresident": false
+  },
+  {
+    "nom": "Lenny Cheron",
+    "points": 62,
+    "team": "Hypercar",
+    "role": "",
+    "description": "Spécialiste Hypercar.",
+    "photo": "https://www.groupe-atf.com/sites/default/files/styles/photo_personnel_630px_/public/default_images/fond_pdp_0.png?itok=sNsxciTS",
+    "licence": "AAA-1234-BBB",
+    "isPresident": false
+  },
+  {
+    "nom": "Antoine Moreira",
+    "points": 12,
+    "team": "LMP2",
+    "role": "",
+    "description": "New",
+    "photo": "https://www.groupe-atf.com/sites/default/files/styles/photo_personnel_630px_/public/default_images/fond_pdp_0.png?itok=sNsxciTS",
+    "licence": "AAA-1234-BBB",
+    "isPresident": false
+  },
+  {
+    "nom": "Alessandro Cortese",
+    "points": 20,
+    "team": "LMP2",
+    "role": "",
+    "description": "New",
+    "photo": "https://www.groupe-atf.com/sites/default/files/styles/photo_personnel_630px_/public/default_images/fond_pdp_0.png?itok=sNsxciTS",
+    "licence": "AAA-1234-BBB",
+    "isPresident": false
+  },
+  {
+    "nom": "Evan Waslam",
+    "points": 4,
+    "team": "LMP2",
+    "role": "",
+    "description": "New",
+    "photo": "https://www.groupe-atf.com/sites/default/files/styles/photo_personnel_630px_/public/default_images/fond_pdp_0.png?itok=sNsxciTS",
+    "licence": "AAA-1234-BBB",
+    "isPresident": false
+  }
+]
